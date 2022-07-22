@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NavigationTesting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Hello_Main_Fragment">Welcome To Main Fragment</string>
+</resources>
