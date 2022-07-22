@@ -9,7 +9,7 @@ import androidx.navigation.fragment.findNavController
 import com.example.navigationtesting.databinding.FragmentLoginBinding
 import com.example.navigationtesting.databinding.FragmentMainBinding
 
-
+//this is the main Fragment
 class MainFragment : Fragment() {
     private var _binding: FragmentMainBinding? = null
     private val binding get() = _binding!!
