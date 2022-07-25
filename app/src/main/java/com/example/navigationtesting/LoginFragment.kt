@@ -9,7 +9,7 @@ import android.widget.Button
 import androidx.navigation.fragment.findNavController
 import com.example.navigationtesting.databinding.FragmentLoginBinding
 import com.example.navigationtesting.databinding.FragmentRegisterBinding
-
+//this is the new Log
 class LoginFragment : Fragment() {
     private var _binding: FragmentLoginBinding? = null
     private val binding get() = _binding!!
